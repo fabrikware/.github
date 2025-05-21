@@ -1,14 +1,14 @@
-# Welcome to CoreTailoring
+# Welcome to Fabrikware
 
 ## About Us
-CoreTailoring is dedicated to revolutionizing the fashion industry through AI-driven customization and sustainable practices. Our platform enables businesses and individuals to create tailored clothing with precision, efficiency, and minimal environmental impact.
+Fabrikware is dedicated to revolutionizing the fashion industry through AI-driven customization and sustainable practices. Our platform enables businesses and individuals to create tailored clothing with precision, efficiency, and minimal environmental impact.
 
 ## Organization Structure
 This GitHub organization hosts our open-source projects, internal tooling, and collaboration efforts. Our repositories include:
 
 - **AI-Powered Design Tools**: Automating the design and fitting process.
 - **Sustainable Manufacturing Solutions**: Optimizing production workflows for minimal waste.
-- **CoreTailoring APIs**: Providing seamless integration with third-party services.
+- **Fabrikware APIs**: Providing seamless integration with third-party services.
 
 ## Contributing
 We welcome contributions from the community! To get started:
@@ -22,4 +22,4 @@ For more details, check out our [Contributing Guide](CONTRIBUTING.md).
 Our community adheres to a strict [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment for all contributors.
 
 ## Contact
-For inquiries, please reach out to us at [support@coretailoring.com](mailto:support@coretailoring.com) or visit our website at [coretailoring.com](https://coretailoring.com).
+For inquiries, please reach out to us at [support@fabrikware.com](mailto:support@fabrikware.com) or visit our website at [fabrikware.com](https://fabrikware.com).
